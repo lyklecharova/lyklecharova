@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @lklecharova@gmail.com
+- 📫 How to reach me @lklecharova@gmail.com, https://www.linkedin.com/in/lilyana-klecharova-183311227/
 
 <!---
 lyklecharova/lyklecharova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
