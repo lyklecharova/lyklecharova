@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
    @lklecharova9@gmail.com
-  https://www.linkedin.com/in/lilyana-klecharova-183311227/
+ 
 
 
 ###
@@ -12,6 +12,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lilyana-klecharova-183311227/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  />
+     
   </a>
 </div>
 
