@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, HTM&CSS
 - 💞️ I’m looking to collaborate on ...
 
+<hr>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lilyana-klecharova-183311227/" target="_blank">
@@ -36,5 +37,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lyklecharova.lyklecharova&"  />
 </div>
-
+</hr>
 ###
