@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyklecharova
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning JavaScript, HTM&CSS
+- 🌱 I’m currently learning JavaScript, HTM&CSS, ReactJS
 - 💞️ I’m looking to collaborate on ...
 
 <hr>
