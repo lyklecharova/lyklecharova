@@ -58,6 +58,7 @@
 - [MySQL - January 2024](https://softuni.bg/certificates/details/202930/32d1c329)
 - [Angular - February 2024](https://softuni.bg/certificates/details/211837/72b805c9)
 - [Git - May 2025](https://softuni.bg/certificates/details/247335/d3e0b801)
+- [Linux System Administration - September 2025](https://softuni.bg/certificates/details/251931/120c887e)
 
 
 
